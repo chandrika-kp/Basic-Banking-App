@@ -1,0 +1,74 @@
+{
+  "customers": [
+    {
+      "S_No": 1,
+      "Name": "Sreeram chandu",
+      "Email": "sreeram@gmail.com",
+      "Account": 45678290,
+      "Balance": 10000000
+    },
+    {
+      "S_No": 2,
+      "Name": "Sreesatya Maha",
+      "Email": "satya@gmail.com",
+      "Account": 54879642,
+      "Balance": 45050
+    },
+    {
+      "S_No": 3,
+      "Name": "Arjun Kalyan",
+      "Email": "Arjun@gmail.com",
+      "Account": 75344578,
+      "Balance": 65000
+    },
+    {
+      "S_No": 4,
+      "Name": "Sandeep Kisan",
+      "Email": "sandeep@gmail.com",
+      "Account": 56489652,
+      "Balance": 9100
+    },
+    {
+      "S_No": 5,
+      "Name": "Rasmitha Pallavi",
+      "Email": "pallavi@gmail.com",
+      "Account": 65248931,
+      "Balance": 60800
+    },
+    {
+      "S_No": 6,
+      "Name": "Aswin Narappa",
+      "Email": "Aswin@gmail.com",
+      "Account": 23546897,
+      "Balance": 11050
+    },
+    {
+      "S_No": 7,
+      "Name": "Govind arun",
+      "Email": "Govind@gmail.com",
+      "Account": 45612378,
+      "Balance": 21500
+    },
+    {
+      "S_No": 8,
+      "Name": "Taylor swift",
+      "Email": "Talyor@gmail.com",
+      "Account": 35467891,
+      "Balance": 9860
+    },
+    {
+      "S_No": 9,
+      "Name": "Laxmi Prasanna",
+      "Email": "laxmi@gmail.com",
+      "Account": 51234687,
+      "Balance": 52640
+    },
+    {
+      "S_No": 10,
+      "Name": "Durga Sarswathi",
+      "Email": "Durga@gmail.com",
+      "Account": 98765432,
+      "Balance": 75000
+    }
+  ]
+}
